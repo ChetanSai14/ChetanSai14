@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=260&section=header&text=Chetan%20Sai&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Full%20Stack%20%7C%20DSA&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=260&section=header&text=Chetan%20Sai&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner&descSize=22&descAlignY=65"/>
 
 </div>
 
@@ -8,45 +8,26 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=AI+Explorer;Full+Stack+Developer;DSA+Learner;Building+Future+Ready+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Apps;Problem+Solver;Future+Software+Engineer;Always+Learning"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 What I’m Doing
 
-<img src="https://komarev.com/ghpvc/?username=ChetanSai14&label=Profile%20Views&color=00F5D4&style=for-the-badge"/>
-
-</div>
-
----
-
-## 🧠 About Me
-
-```yaml
-name: Chetan Sai
-role: Aspiring Software Engineer
-focus: AI + Full Stack Development
-learning: DSA, System Design
-```
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,cpp,c,git,github&theme=dark"/>
-</p>
-
----
-
-## 🚀 What I'm Doing
-
-* 💻 Building real-world projects
+* 💻 Building real-world full stack projects
 * ⚡ Practicing DSA daily
 * 🤖 Exploring AI
 * 🎯 Preparing for placements
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind,cpp,c,git,github"/>
+</p>
 
 ---
 
@@ -63,6 +44,30 @@ learning: DSA, System Design
 
 ---
 
+## 🌆 Cyber City Vibe
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700"/>
+
+</div>
+
+<div align="center">
+
+### ⚡ “Quiet nights. Loud thoughts. Building the future.”
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSai14&repo=CivicSense&theme=tokyonight"/>
+</p>
+
+---
+
 ## 📈 Activity Graph
 
 <p align="center">
@@ -71,31 +76,7 @@ learning: DSA, System Design
 
 ---
 
-## 🎯 Featured Project
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanSai14&repo=CivicSense&theme=tokyonight"/>
-</p>
-
----
-
-## 🌌 Cyber Vibes
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
-
-</div>
-
-<div align="center">
-
-> ⚡ *"Code. Learn. Build. Repeat."*
-
-</div>
-
----
-
-## 🔗 Connect
+## 🔗 Connect With Me
 
 <p align="center">
 
